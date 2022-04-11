@@ -1,2 +1,41 @@
-hai all
-this is my second code test
+[33mcommit 6ca600429a2e6d5bbbc9a4dde302f662d597b175[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: usman <usmanska4@gmail.com>
+Date:   Mon Apr 11 21:54:23 2022 +0530
+
+    second test
+
+[33mcommit bd4bd1c3124ef1edc49f38bc5babb26840e7a71e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5ce9548 07c9275
+Author: Usman <98801884+usmana1@users.noreply.github.com>
+Date:   Mon Apr 11 14:59:58 2022 +0530
+
+    Merge pull request #2 from usmana1/usman
+    
+    add user ok good i will aprove the fole
+
+[33mcommit 07c9275cd658b40574dde42e3d34e23d3da8fc5a[m[33m ([m[1;31morigin/usman[m[33m)[m
+Author: Usman <98801884+usmana1@users.noreply.github.com>
+Date:   Mon Apr 11 14:56:13 2022 +0530
+
+    add user
+
+[33mcommit 5ce954820bb50d5745c1fef0f93c91ebab8f49af[m
+Merge: bd826e7 e189d5b
+Author: Usman <98801884+usmana1@users.noreply.github.com>
+Date:   Mon Apr 11 14:54:49 2022 +0530
+
+    Merge pull request #1 from usmana1/usman
+    
+    to update the new file
+
+[33mcommit e189d5ba8841123595acee74fa7bc6c118370971[m
+Author: Usman <98801884+usmana1@users.noreply.github.com>
+Date:   Mon Apr 11 14:51:30 2022 +0530
+
+    to update
+
+[33mcommit bd826e73e530ac5d1976066aa46aeab8cdc2c803[m
+Author: usman <usmanshaikk@gmail.com>
+Date:   Tue Feb 1 15:49:40 2022 +0530
+
+    first commit
